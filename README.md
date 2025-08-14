@@ -50,3 +50,5 @@ Click "Create".
 Monitor for generated lyrics and publish button.
 
 Download lyrics if configured.
+
+Download the song as Mp3 file
